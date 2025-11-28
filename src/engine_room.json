@@ -1,0 +1,1022 @@
+{
+	"checklist" : 
+	{
+		"cvclID" : "0628D4BD-0D81-6240-976C-3CB7AA30E141",
+		"isEve" : true,
+		"items" : 
+		[
+			{
+				"cvclID" : "E9EF2F4F-EBDD-424D-87E4-012599BE7D4C",
+				"isEve" : false,
+				"items" : 
+				[
+					{
+						"cvclID" : "FA1FD24D-B2E9-4C59-AED8-C1057538059C",
+						"isEve" : false,
+						"items" : 
+						[
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"content" : 0,
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"content" : 1,
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"content" : 0,
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : "1"
+								},
+								"title" : "",
+								"type" : "testpoint"
+							}
+						],
+						"title" : "Actuators in the engine room",
+						"type" : "folder"
+					},
+					{
+						"cvclID" : "2582813E-C2B1-4575-9821-8A21F4CD397D",
+						"isEve" : false,
+						"items" : 
+						[
+							{
+								"description" : "<p>Check that the monitoring panel on the bridge is operational.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the monitoring panel on the bridge is operational.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the transmission control panel is operational.</p><p><em>Note: The transmission control panel is sometimes incorporated with the lever.</em></p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the transmission control panel is operational.</p><p><em>Note: The transmission control panel is sometimes incorporated with the lever.</em></p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that any additional monitoring equipment is operational.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that any additional monitoring equipment is operational.</p>",
+								"type" : "testpoint"
+							}
+						],
+						"title" : "Monitoring devices",
+						"type" : "folder"
+					},
+					{
+						"cvclID" : "4FA67428-3032-4ED5-9561-42C354B0C202",
+						"isEve" : false,
+						"items" : 
+						[
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : {},
+								"title" : "",
+								"type" : "testpoint"
+							}
+						],
+						"title" : "Indications with engine running",
+						"type" : "folder"
+					},
+					{
+						"cvclID" : "5C68B142-A581-470C-A31C-12489732B3B8",
+						"isEve" : false,
+						"items" : 
+						[
+							{
+								"cvclID" : "04A959DB-9007-459F-B185-CE74EF5B7189",
+								"description" : "<p>Set the throttle lever to neutral and check that the throttle indicator shows 0%.</p>",
+								"isEve" : false,
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "dsagdgag",
+								"type" : "folder"
+							},
+							{
+								"description" : "<p>Set the throttle lever to full ahead, and full astern. Check that the throttle indicator shows 100% in each direction. Check that the indicator moves in linearity with the lever.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Set the throttle lever to full ahead, and full astern. Check that the throttle indicator shows 100% in each direction. Check that the indicator moves in linearity with the lever.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the boost pressure indicator shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the boost pressure indicator shows zero.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the RPM indicator of the main engine shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the RPM indicator of the main engine shows zero.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the load indicator of the main engine shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the load indicator of the main engine shows zero.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the sea water flow indicator shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"object" : 
+											[
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "Input power",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "Reflected power",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "10",
+													"text" : "Accepted reflection (%)",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "SWR",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												}
+											],
+											"required" : true,
+											"text" : "Enter values",
+											"uuid" : "776a7697-ad43-4c8b-8016-7983206a1827"
+										},
+										{
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : "",
+													"uuid" : "7a5dd047-873c-443c-9418-dcfb10c71ec8"
+												}
+											],
+											"required" : false,
+											"text" : "Comment",
+											"uuid" : "fb3cfe1a-c83b-49da-ae9e-6db71a3160f3"
+										}
+									]
+								},
+								"title" : "<p>Check that the sea water flow indicator shows zero.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the exhaust temperature indicator of the main engine shows a reasonable value.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the exhaust temperature indicator of the main engine shows a reasonable value.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the coolant temperature indicator of the main engine shows a reasonable value.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the coolant temperature indicator of the main engine shows a reasonable value.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the oil pressure indicator of the main engine shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the oil pressure indicator of the main engine shows zero.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the oil temperature indicator of the transmission shows a reasonable value.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the oil temperature indicator of the transmission shows a reasonable value.</p>",
+								"type" : "testpoint"
+							},
+							{
+								"description" : "<p>Check that the oil pressure indicator of the transmission shows zero.</p>",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Pass"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "Fail"
+												},
+												{
+													"objectType" : "checkBox",
+													"preSet" : "",
+													"text" : "N/A"
+												}
+											],
+											"required" : true,
+											"selection" : "single",
+											"text" : "Assesment"
+										},
+										{
+											"autoVerify" : true,
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : ""
+												}
+											],
+											"required" : false,
+											"text" : "Comment"
+										}
+									],
+									"type" : 1
+								},
+								"title" : "<p>Check that the oil pressure indicator of the transmission shows zero.</p>",
+								"type" : "testpoint"
+							}
+						],
+						"title" : "Indications with engine stopped",
+						"type" : "folder"
+					},
+					{
+						"cvclID" : "02FFD36D-89C1-4706-96AA-B5FE9DE144AD",
+						"isEve" : false,
+						"items" : 
+						[
+							{
+								"description" : "",
+								"isPass" : false,
+								"testStructure" : 
+								{
+									"inputGroup" : 
+									[
+										{
+											"object" : 
+											[
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "Input power",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "Reflected power",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "10",
+													"text" : "Accepted reflection (%)",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												},
+												{
+													"objectType" : "fieldNumeric",
+													"preSet" : "",
+													"text" : "SWR",
+													"uuid" : "5494d257-086f-42e5-8c27-04b7c5f282cc"
+												}
+											],
+											"required" : true,
+											"text" : "Enter values",
+											"uuid" : "776a7697-ad43-4c8b-8016-7983206a1827"
+										},
+										{
+											"object" : 
+											[
+												{
+													"objectType" : "field",
+													"preSet" : "",
+													"text" : "",
+													"uuid" : "7a5dd047-873c-443c-9418-dcfb10c71ec8"
+												}
+											],
+											"required" : false,
+											"text" : "Comment",
+											"uuid" : "fb3cfe1a-c83b-49da-ae9e-6db71a3160f3"
+										}
+									]
+								},
+								"title" : "",
+								"type" : "testpoint"
+							}
+						],
+						"title" : "Actuators on the bridge",
+						"type" : "folder"
+					}
+				],
+				"title" : "Propulsion",
+				"type" : "folder"
+			},
+			{
+				"cvclID" : "7A20100D-9FDF-4BB0-93B9-3C975639EC5B",
+				"isEve" : false,
+				"items" : 
+				[
+					{
+						"cvclID" : "8103AFDA-CE27-4570-BA94-9ABACF46C228",
+						"isEve" : false,
+						"title" : "Fire alarm system",
+						"type" : "folder"
+					},
+					{
+						"cvclID" : "55A78CC4-460B-4312-8337-5EAA1070B082",
+						"isEve" : false,
+						"title" : "CCTV",
+						"type" : "folder"
+					}
+				],
+				"title" : "External monitoring",
+				"type" : "folder"
+			},
+			{
+				"cvclID" : "7C84D7D3-4BB2-43B6-9DD7-49AFF908C132",
+				"isEve" : false,
+				"title" : "Communication system",
+				"type" : "folder"
+			}
+		],
+		"title" : "Systems for monitoring unmanned engine rooms",
+		"type" : "folder"
+	},
+	"isObsolete" : false,
+	"isTemplate" : true,
+	"metadata" : 
+	{
+		"author" : "0001",
+		"created" : "2024-10-06 22:35:59",
+		"modified" : "2025-11-24 22:19:48"
+	},
+	"version" : "1"
+}
